@@ -2,11 +2,12 @@
 
 <nav>
   <a href="index.html">Introduccion</a>
-  <a href="page2.html">Mercedez y Jaguar</a>
-  <a href="page3.html">Shelby y Porsche</a>
-  <a href="page4.html" class="activo">Lamborghini y Ferrari</a>
-  <a href="page5.html">Pagani y Mclaren</a>
-  <a href="page6.html">Ferrari y Lamborghini</a>
+  <a href="MercedezyJaguar.html">Mercedez y Jaguar</a>
+  <a href="ShelbyyPorsche.html">Shelby y Porsche</a>
+  <a href="LamborghiniyFerrari.html"class="activo">Lamborghini y Ferrari</a>
+  <a href="PaganiyMclaren.html" >Pagani y Mclaren</a>
+  <a href="FerrariyLamborghini.html">Ferrari y Lamborghini</a>
+
 </nav>
 <main>
   <h1> Lamborghini Miura (1966) y Ferrari F40 (1987) </h1>
