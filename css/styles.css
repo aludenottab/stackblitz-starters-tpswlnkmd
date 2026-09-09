@@ -96,3 +96,9 @@ img{
   border-radius: 5%;
  margin: 0px auto;
 }
+#formulario{
+  width: 50%;
+  height: 400px;
+  background-color:cadetblue;
+  padding: 25px;
+}
