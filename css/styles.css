@@ -69,9 +69,9 @@ justify-content: center;*/
   justify-content: space-evenly;
 }
 
-#alumno {
+#Dueños {
   width: 33%;
-  background-color: yellow;
+  background-color: rgb(0, 255, 170);
   color: #555;
   padding: 5px;
 }
@@ -86,8 +86,8 @@ justify-content: center;*/
   width: 50px;
 }
 
-#colegio {
+#Institucion {
   width: 33%;
-  background-color: red;
+  background-color: rgb(0, 255, 170);
   padding: 5px;
 }
