@@ -102,3 +102,18 @@ img{
   background-color:cadetblue;
   padding: 25px;
 }
+
+
+.logo a img{
+  display: block;
+  width: 100%;
+  box-shadow: 5px 3px 5px gray;
+  border: solid 3px #ffe4c4;
+
+}
+#logoenlace{
+  border: none;
+  float: left;
+  margin-right: 25px;
+  width: 80px;
+}
