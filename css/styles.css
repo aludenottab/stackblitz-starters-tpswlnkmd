@@ -120,3 +120,15 @@ img{
   margin-right: 25px;
   width: 80px;
 }
+.video-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.video-container video {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
